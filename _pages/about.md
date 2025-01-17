@@ -23,7 +23,7 @@ redirect_from:
 
 WORK EXPERIENCE
 ======
-**Shihezi University (SHZU) , Xinjiang Uygur Autonomous Region, China&emsp;&emsp;&emsp;&emsp;&emsp;09/2018–Present**<br>
+**Shihezi University (SHZU) , Xinjiang Uygur Autonomous Region, China&emsp;&emsp;09/2018–Present**<br>
 Spatial Information Laboratory |Network Public Opinion Situation Awareness & Intelligent Guidance Innovation Team| Provincial Key Laboratory of Computational Intelligence | School of Information Science and Technology<br>
 ■ **Lecturer**          <br>
 ● Teaching undergraduate courses including “Algorithm of Analysis and Design”, “Data Structure”, “Machine Learning” and “Engineering Ethics”, etc.<br>
