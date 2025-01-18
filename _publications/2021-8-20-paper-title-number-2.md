@@ -1,4 +1,3 @@
-
 ---
 title: " Multi-view Representation Learning with Deep Features for Offline Signature Verification. "
 collection: publications
