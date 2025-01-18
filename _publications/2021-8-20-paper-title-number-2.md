@@ -13,4 +13,3 @@ citation: ' Xingbiao Zhao, Changzheng Liu, Benzhuang Zhang, Limengzi Yuan, Yuche
 
 [paper](https://www.baidu.com)
 
- Xingbiao Zhao, Changzheng Liu, Benzhuang Zhang, Limengzi Yuan, Yuchen Zheng. 
