@@ -1,4 +1,3 @@
-
 ---
 title: " A system for dynamic community detection based on non-negative matrix factorization  "
 collection: talks
