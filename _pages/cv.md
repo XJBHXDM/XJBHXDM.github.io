@@ -27,20 +27,14 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Shihezi University (SHZU) , Xinjiang Uygur Autonomous Region, China&emsp;&emsp;09/2018–Present**<br>
+Spatial Information Laboratory |Network Public Opinion Situation Awareness & Intelligent Guidance Innovation Team| Provincial Key Laboratory of Computational Intelligence | School of Information Science and Technology<br>
+■ **Lecturer**          <br>
+● Teaching undergraduate courses including “Algorithm of Analysis and Design”, “Data Structure”, “Machine Learning” and “Engineering Ethics”, etc.<br>
+● Developed quizzes, exams, and homework.<br>
+● Revised the syllabus to meet accreditation standards.<br>
+● Coordinated lab networks with a team of 4 members, including 1 professor, 2 associate professors and 1 lecturer.<br>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
