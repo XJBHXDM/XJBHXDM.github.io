@@ -47,14 +47,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Manuscripts Under Review
+intellectual property
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-intellectual property
-======
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
