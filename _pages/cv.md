@@ -38,12 +38,8 @@ Spatial Information Laboratory |Network Public Opinion Situation Awareness & Int
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+■ **Languages**: Chinese (mother tongue) • English (fluent, IELTS: 7.0)<br>
+■ **Computer skills**: C++ • Matlab • Office • Java • Python<br>
 
 Publications
 ======
