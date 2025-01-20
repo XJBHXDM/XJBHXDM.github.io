@@ -2,7 +2,7 @@
 title: "LDS-YOLO: A Lightweight Small Object Detection Method for Dead Trees from Shelter Forest"
 collection: publications
 category: manuscripts
-permalink: /publication/2022-01-01-lds-yolo-lightweight-small-object-detection
+permalink: /publication/2022-01-01-lds-yolo-lightweight-small-object-detection-2
 excerpt: 'This paper proposes LDS-YOLO, a lightweight small object detection method designed for detecting dead trees in shelter forests.'
 date: 2022-01-01
 venue: 'Computers and Electronics in Agriculture'
