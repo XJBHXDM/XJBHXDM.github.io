@@ -2,9 +2,9 @@
 title: "Temporal Smoothness Framework: Analyzing and Exploring Evolutionary Transition Behavior in Dynamic Networks"
 collection: publications
 category: conferences
-permalink: /publication/2021-01-01-paper-title-number-4
+permalink: /publication/2021-12-21-paper-title-number-4
 excerpt: 'This paper presents a temporal smoothness framework to analyze and explore the evolutionary transition behavior in dynamic networks.'
-date: 2021-01-01
+date: 2021-12-21
 venue: '2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9643384'
 ---
