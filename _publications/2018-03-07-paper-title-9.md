@@ -1,3 +1,4 @@
+---
 title: "Community Detection in Temporal Networks using Triple Nonnegative Matrix Factorization"
 collection: publications
 category: conferences
