@@ -6,4 +6,4 @@ permalink: /talks/software-copyright-2023-06-14-1
 date: 2023-06-14
 location: "China"
 ---
-<span style="font-size:15px;">Software Copyright</span>
+<span style="font-size:15px;">Software Copyright, China</span>
