@@ -2,7 +2,7 @@
 title: "SDES-YOLO: A High-Precision and Lightweight Model for Fall Detection in Complex Environments"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-01-sdes-yolo-fall-detection
+permalink: /publication/2025-01-01-sdes-yolo-fall-detection-1
 excerpt: 'This paper proposes the SDES-YOLO model, an enhancement of YOLOv8, for high-precision fall detection in complex environments.'
 date: 2025-01-01
 venue: 'Scientific Reports'
