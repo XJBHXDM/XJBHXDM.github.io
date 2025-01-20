@@ -6,4 +6,4 @@ permalink: /talks/software-copyright-2021-12-12-1
 date: 2021-12-12
 location: "China"
 ---
-<span style="font-size:15px;">Software Copyright</span>
+<span style="font-size:15px;">Software Copyright, China</span>
