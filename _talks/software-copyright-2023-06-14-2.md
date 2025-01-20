@@ -1,8 +1,9 @@
 ---
 title: "  A handwritten signature verification system based on canonical correlation analysis   "
 collection: talks
+type: "Softwarr Copyright"
 permalink: /talks/software-copyright-2023-06-14-1
-venue: "Software Copyright"
 date: 2023-06-14
 location: "China"
 ---
+<span style="font-size:15px;">Software Copyright</span>
